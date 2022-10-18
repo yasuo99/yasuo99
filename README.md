@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2 align="center">Overview</h2>
 <h1 align="center">Hi 👋, I'm Luyen Ngoc Thanh</h1>
-<h3 align="center">I'm fresher Backend Developer. I passionate about technology, always want to explore new technologies.</h3>
+<h3 align="center">I'm a mid-level Backend Developer. I passionate about technology, always want to explore new technologies.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yasuo99" alt="yasuo99" />
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
